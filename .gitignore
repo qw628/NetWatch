@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+*.log
+package-lock.json # Or yarn.lock if you use yarn
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
